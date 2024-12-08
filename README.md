@@ -24,7 +24,7 @@ A fun and interactive console-based game inspired by the Chrome Dino game, built
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dino-jump-clone.git
+   git clone https://github.com/yourusername/CPPProjects.git
    ```
 2. Compile the code:
    ```bash
